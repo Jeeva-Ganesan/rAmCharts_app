@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "library(shiny)\nlibrary(shinydashboard)\nlibrary(rAmCharts)\nlibrary(DT)\n",
+    "created" : 1467362919160.000,
+    "dirty" : false,
+    "encoding" : "LATIN1",
+    "folds" : "",
+    "hash" : "1229690645",
+    "id" : "DAE21D13",
+    "lastKnownWriteTime" : 1467813103,
+    "last_content_update" : 1467813103529,
+    "path" : "~/rAmCharts_app/global.R",
+    "project_path" : "global.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

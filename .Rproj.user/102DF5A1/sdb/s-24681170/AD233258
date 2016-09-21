@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "a = \"```{r, echo = T, eval = F}\npaste0('test')\n```\"\nsave(a, file = \"./test.md\")\n",
+    "created" : 1467638047844.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "291263525",
+    "id" : "AD233258",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1467638162658,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
